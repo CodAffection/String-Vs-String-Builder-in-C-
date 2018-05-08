@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MutabilityAndImmutability", "01.MutabilityAndImmutability.csproj", "{E2E81AE5-257B-4DB1-A2F9-73EC8C30B928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ObjectIDgenerator", "..\ObjectIDgenerator\03.ObjectIDgenerator.csproj", "{8D6BC6BC-E5D4-4966-BC3E-FECC5BB3C6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PerfomanceTest", "..\PerfomanceTest\02.PerfomanceTest.csproj", "{A894DCEE-C867-4B36-A5F1-C0DD1AD30BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E81AE5-257B-4DB1-A2F9-73EC8C30B928}.Debug|x86.ActiveCfg = Debug|x86
+		{E2E81AE5-257B-4DB1-A2F9-73EC8C30B928}.Debug|x86.Build.0 = Debug|x86
+		{E2E81AE5-257B-4DB1-A2F9-73EC8C30B928}.Release|x86.ActiveCfg = Release|x86
+		{E2E81AE5-257B-4DB1-A2F9-73EC8C30B928}.Release|x86.Build.0 = Release|x86
+		{8D6BC6BC-E5D4-4966-BC3E-FECC5BB3C6AD}.Debug|x86.ActiveCfg = Debug|x86
+		{8D6BC6BC-E5D4-4966-BC3E-FECC5BB3C6AD}.Debug|x86.Build.0 = Debug|x86
+		{8D6BC6BC-E5D4-4966-BC3E-FECC5BB3C6AD}.Release|x86.ActiveCfg = Release|x86
+		{8D6BC6BC-E5D4-4966-BC3E-FECC5BB3C6AD}.Release|x86.Build.0 = Release|x86
+		{A894DCEE-C867-4B36-A5F1-C0DD1AD30BFC}.Debug|x86.ActiveCfg = Debug|x86
+		{A894DCEE-C867-4B36-A5F1-C0DD1AD30BFC}.Debug|x86.Build.0 = Debug|x86
+		{A894DCEE-C867-4B36-A5F1-C0DD1AD30BFC}.Release|x86.ActiveCfg = Release|x86
+		{A894DCEE-C867-4B36-A5F1-C0DD1AD30BFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

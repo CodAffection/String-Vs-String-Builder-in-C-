@@ -1,0 +1,4 @@
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\StringVsStringBuilder\obj\x86\Debug\StringVsStringBuilder.exe
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\StringVsStringBuilder\obj\x86\Debug\StringVsStringBuilder.pdb
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\StringVsStringBuilder\bin\Debug\StringVsStringBuilder.exe
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\StringVsStringBuilder\bin\Debug\StringVsStringBuilder.pdb

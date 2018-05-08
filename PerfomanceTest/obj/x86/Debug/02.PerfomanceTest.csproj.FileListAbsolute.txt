@@ -1,0 +1,4 @@
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\PerfomanceTest\bin\Debug\PerfomanceTest.exe
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\PerfomanceTest\bin\Debug\PerfomanceTest.pdb
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\PerfomanceTest\obj\x86\Debug\PerfomanceTest.exe
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\PerfomanceTest\obj\x86\Debug\PerfomanceTest.pdb

@@ -1,0 +1,4 @@
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\ObjectIDgenerator\bin\Debug\ObjectIDgenerator.exe
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\ObjectIDgenerator\bin\Debug\ObjectIDgenerator.pdb
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\ObjectIDgenerator\obj\x86\Debug\ObjectIDgenerator.exe
+E:\Youtube Channel\Dotnet Mob\C# tutorials\String vs StringBuilder\Project\ObjectIDgenerator\obj\x86\Debug\ObjectIDgenerator.pdb
