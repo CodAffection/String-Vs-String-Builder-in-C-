@@ -9,7 +9,7 @@ $ git clone https://github.com/CodAffection/String-Vs-String-Builder-in-C-.git
 
  ## How it works ?
  
- :scroll: Article on this topic
+ :scroll: Article on this topic  
  Url : https://goo.gl/yTpfyh
  
  :tv: Video tutorial on this same topic  
